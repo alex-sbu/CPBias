@@ -1,0 +1,8 @@
+export(CPBtable,
+       CPScalc,
+       CPBcorr,
+       CPSdesign.single,
+       CPSdesign.dual,
+       CPSplot,
+       newCPSplot,
+       importFasta)

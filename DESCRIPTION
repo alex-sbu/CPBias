@@ -1,0 +1,17 @@
+Package: CPBias
+Type: Package
+Title: Codon pair bias calculation and gene design.
+Version: 1.0
+Date: 2014-10-12
+Author: Oleksandr Gorbatsevych
+Maintainer: <o.gorbatsevych@gmail.com>
+Description: Calculation and analysis of the codon pair bias given any set of
+    protein coding genes, calculation of the codon pair score of any gene
+    relative to a codon pair bias, and a versatile gene design algorithm which
+    generates recoded sequences with customized codon pair scores, or random
+    permutations, relative to the codon pair bias of one or two references. The
+    design algorithm also allows for the exclusion of user defined sequence
+    elements during recoding and supports regular expressions. Codon usage and
+    amino acid order are never altered by recoding.
+License: GPL3
+LazyData: yes
